@@ -1,3 +1,6 @@
 print("Hello Charindu")
 print("brother")
 print("charindu jayasanka")
+print("Hello Charindu")
+print("brother")
+print("charindu jayasanka")
